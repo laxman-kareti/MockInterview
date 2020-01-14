@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Questions>
+ <Topic name="C#">
+<question name="What is abstraction" responsetime="1" />  
+<question name="What is encapsulation" responsetime="1" />
+</Topic> 
+ <Topic name="Sql Server">
+<question name="What is View" responsetime="1"/>  
+<question name="What is Index" responsetime="1"/>
+</Topic> 
+
+</Questions>
